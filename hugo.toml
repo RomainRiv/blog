@@ -2,7 +2,6 @@ baseURL = 'https://romainriv.github.io/blog/'
 languageCode = 'en-us'
 title = "RomainRiv Blog"
 theme = "PaperMod"
-publishDir = "docs"
 
 [menu]
     [[menu.main]]
