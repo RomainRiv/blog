@@ -1,4 +1,4 @@
-baseURL = 'https://romainriv.github.io/attack-graphs-public/'
+baseURL = 'https://romainriv.github.io/blog/'
 languageCode = 'en-us'
 title = "RomainRiv Blog"
 theme = "PaperMod"
