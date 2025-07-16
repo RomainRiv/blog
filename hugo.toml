@@ -2,6 +2,7 @@ baseURL = 'https://romainriv.github.io/attack-graphs-public/'
 languageCode = 'en-us'
 title = "RomainRiv Blog"
 theme = "PaperMod"
+publishDir = "docs"
 
 [menu]
     [[menu.main]]
@@ -42,3 +43,4 @@ theme = "PaperMod"
     [markup.goldmark]
         [markup.goldmark.renderer]
             unsafe = true
+
