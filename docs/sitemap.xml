@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://romainriv.github.io/attack-graphs-public/</loc>
+    <loc>https://romainriv.github.io/blog/</loc>
     <lastmod>2025-07-16T22:38:02+02:00</lastmod>
   </url><url>
-    <loc>https://romainriv.github.io/attack-graphs-public/posts/</loc>
+    <loc>https://romainriv.github.io/blog/posts/</loc>
     <lastmod>2025-07-16T22:38:02+02:00</lastmod>
   </url><url>
-    <loc>https://romainriv.github.io/attack-graphs-public/archive/</loc>
+    <loc>https://romainriv.github.io/blog/archive/</loc>
   </url><url>
-    <loc>https://romainriv.github.io/attack-graphs-public/categories/</loc>
+    <loc>https://romainriv.github.io/blog/categories/</loc>
   </url><url>
-    <loc>https://romainriv.github.io/attack-graphs-public/search/</loc>
+    <loc>https://romainriv.github.io/blog/search/</loc>
   </url><url>
-    <loc>https://romainriv.github.io/attack-graphs-public/tags/</loc>
+    <loc>https://romainriv.github.io/blog/tags/</loc>
   </url>
 </urlset>

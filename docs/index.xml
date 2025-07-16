@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>👷🚧 Page under construction 🚧👷 on RomainRiv Blog</title>
-    <link>https://romainriv.github.io/attack-graphs-public/</link>
+    <link>https://romainriv.github.io/blog/</link>
     <description>Recent content in 👷🚧 Page under construction 🚧👷 on RomainRiv Blog</description>
     <generator>Hugo -- 0.148.1</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://romainriv.github.io/attack-graphs-public/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://romainriv.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Archive</title>
-      <link>https://romainriv.github.io/attack-graphs-public/archive/</link>
+      <link>https://romainriv.github.io/blog/archive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://romainriv.github.io/attack-graphs-public/archive/</guid>
+      <guid>https://romainriv.github.io/blog/archive/</guid>
       <description></description>
     </item>
   </channel>
