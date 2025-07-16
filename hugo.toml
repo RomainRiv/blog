@@ -1,0 +1,44 @@
+baseURL = 'https://romainriv.github.io/attack-graphs-public/'
+languageCode = 'en-us'
+title = "RomainRiv Blog"
+theme = "PaperMod"
+
+[menu]
+    [[menu.main]]
+        name = "Home"
+        url = "/"
+        weight = 1
+    
+    [[menu.main]]
+        name = "Blog"
+        url = "/posts/"
+        weight = 2
+
+    [[menu.main]]
+        name = "Archive"
+        url = "/archive/"
+        weight = 3
+
+    [[menu.main]]
+        name = "Tags"
+        url = "/tags/"
+        weight = 4
+        
+    [[menu.main]]
+        name = "Search"
+        url = "/search/"
+        weight = 5
+
+    [[menu.main]]
+        name = "LinkedIn"
+        url = "https://www.linkedin.com/in/rriviere"
+        weight = 10
+        pre = "<i class='fab fa-linkedin'></i>"  # optional icon if your theme supports FontAwesome
+
+[outputs]
+    home = ["HTML", "RSS", "JSON"]
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
